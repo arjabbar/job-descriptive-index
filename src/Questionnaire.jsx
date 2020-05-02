@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Paper, makeStyles, fade, AppBar, Toolbar, Typography, Divider, Grid, Button, IconButton, Stepper, Step, StepLabel, Slide, Fade, Dialog, DialogTitle, DialogContent, DialogActions, List, ListItem, ListItemAvatar, Avatar, ListItemText, Hidden } from '@material-ui/core';
+import { Paper, makeStyles, fade, AppBar, Toolbar, Typography, Divider, Grid, Button, IconButton, Stepper, Step, StepLabel, Fade, Dialog, DialogContent, List, ListItem, ListItemAvatar, Avatar, ListItemText, Hidden } from '@material-ui/core';
 import { Check as YesIcon, Clear as NoIcon, Help as UndecidedIcon, ArrowLeft, ArrowRight, Close, Assessment } from "@material-ui/icons";
 import questionnaire from "./assets/data";
 import { red, amber, green } from '@material-ui/core/colors';
